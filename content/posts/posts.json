@@ -1,13 +1,13 @@
 [
   {
     "title": "2024 NEAR Year In Review",
-    "featuredImage": "/images/near-2024-recap-blog.png",
+    "featuredImage": "https://raw.githubusercontent.com/kowkelley/community-blog-prototype/main/content/posts/20240801-redacted-speakers-announced-hackathon-registration-is-live/images/redacted-2-blog.png",
     "url": "/community-blog/2024-near-year-in-review",
     "categories": ["A Post from Illia Polosukhin"]
   },
   {
     "title": "[REDACTED] Speakers Announced, Hackathon Registration Is Live",
-    "featuredImage": "/images/redacted-2-blog.png",
+    "featuredImage": "https://raw.githubusercontent.com/kowkelley/community-blog-prototype/main/content/posts/20241220-a-post-from-illia-polosukhin/images/near-2024-recap-blog.png",
     "url": "/community-blog/redacted-speakers-announced-hackathon-registration-is-live",
     "categories": ["comunity"]
   }
