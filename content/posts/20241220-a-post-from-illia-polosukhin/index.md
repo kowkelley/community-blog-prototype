@@ -3,7 +3,7 @@ title: "2024 NEAR Year In Review"
 description: "A recap of NEAR's massive 2024 growth, milestones like Nightshade 2.0, NEAR AI's debut, and what's ahead in 2025."
 author: "Illia Polosukhin"
 subject: "Community"
-featuredImage: "https://user-images.githubusercontent.com/.../featured-near.png"
+featuredImage: "/images/near-2024-recap-blog.png"
 submission: true
 ---
 

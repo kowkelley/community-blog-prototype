@@ -3,7 +3,7 @@ title: "[REDACTED] Speakers Announced, Hackathon Registration Is Live"
 description: "Details on [REDACTED]: a global convergence for User-Owned AI and Chain Abstraction, speaker lineup, hackathon registration, and how to get involved."
 author: "NEAR Community Team"
 subject: "Community"
-featuredImage: "https://user-images.githubusercontent.com/.../featured-redacted.png"
+featuredImage: "/images/redacted-2-blog.png"
 submission: true
 ---
 
