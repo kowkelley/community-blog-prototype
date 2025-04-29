@@ -5,6 +5,7 @@ author: "Illia Polosukhin"
 subject: "Community"
 featuredImage: "https://raw.githubusercontent.com/kowkelley/community-blog-prototype/main/content/posts/20241220-a-post-from-illia-polosukhin/images/near-2024-recap-blog.png"
 submission: true
+slug: "2024-near-year-in-review"
 ---
 
 2024 was a great year for NEAR – we saw major growth across all metrics, welcomed the return of [NEAR.AI](https://near.ai), and progressed towards Web3 truly multichain with Chain Abstraction. Thank you for all your support and feedback throughout the year! Here’s a recap of everything our teams accomplished and a look ahead at what we’ll work on in 2025.
